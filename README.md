@@ -3,8 +3,7 @@ Rencong Tunnel DDOS
 
 ## Step 1
   ```html
-apt-get update && apt-get upgrade && apt-get install python3 -y
-pip install pyarmor
+apt-get update && apt-get upgrade && apt-get install python3 -y && pip install pyarmor
 ``` 
 
 ## Step 2
