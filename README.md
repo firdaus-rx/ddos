@@ -1,4 +1,4 @@
-# ddos
+# RENCONG TUNNEL DDOS TOLS
 Rencong Tunnel DDOS
 
 ## Step 1
@@ -8,7 +8,7 @@ pip install pyarmor
 
 ## Step 2
   ```html
-git clone https://github.com/firdaus-rx/ddos.git
+https://github.com/firdaus-rx/ddos.git
 ```
   ```html
 cd ddos
